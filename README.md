@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mansi+Sinha+%F0%9F%91%8B;MERN+Stack+Developer;MCA+Student+(2024-2026);Building+DevSync+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<!-- Wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:339933&height=150&section=header" width="100%"/>
-
 <!-- Profile visit badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=mansi0sinha&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-sinha0/)
@@ -66,10 +63,10 @@ Repo card below auto-fills the moment it's created ⬇️
 ### 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mansi0sinha&show_icons=true&theme=default&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mansi0sinha&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansi0sinha&theme=default" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi0sinha&layout=compact&theme=default" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi0sinha&layout=compact&theme=default&hide_border=true&cache_seconds=1800" width="49%" />
 
 </div>
 
@@ -79,7 +76,7 @@ Repo card below auto-fills the moment it's created ⬇️
 
 ### 📈 Contribution Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansi0sinha&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/61DAFB/mansi0sinha" width="100%"/>
 </div>
 
 ---
@@ -88,7 +85,7 @@ Repo card below auto-fills the moment it's created ⬇️
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-sinha0/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manshi0832@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 

@@ -1,169 +1,119 @@
-# Hey, I'm Mansi Sinha 👋
+# 👋 Hey, I'm Mansi Sinha
 
-<div align="center">
+<h3 align="center">MERN Stack Developer | MCA Student | Building Full-Stack Products</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Building+Full-Stack+Web+Applications;Learning+by+Building+Real+Projects;Currently+Building+DevSync+%F0%9F%9A%80" alt="Typing animation" />
-
-  <br/>
-
-  <a href="https://dev-sync-jade.vercel.app/">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-DevSync-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="DevSync Live Demo"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+DevSync;Learning+by+Building+Real+Projects" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/mansi0sinha/DevSync">
-    <img src="https://img.shields.io/badge/GitHub-DevSync-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevSync GitHub Repository"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mansi0sinha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://www.linkedin.com/in/mansi-sinha0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=mansi0sinha&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square" alt="Profile views"/>
-
-  <p>
-    <b>MCA Student</b> · <b>MERN Stack Developer</b> · <b>Problem Solver</b>
-  </p>
-
-</div>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a developer who enjoys turning ideas into working web applications and learning how things work under the hood.
-
-- 🎓 Pursuing MCA (2024–2026)
-- 💼 Completed a 6-month internship as an Assistant Software Developer Intern at Tprosys IT, contributing React features to the UP Metro Digitalization Project.
-- 🧩 Solved 180+ LeetCode problems.
+- 🎓 MCA student at Ranchi University, Ranchi.
+- 💻 Interested in building practical, full-stack web applications.
 - 🚀 Currently building **DevSync**, a collaborative engineering workspace.
-- 🌱 Exploring full-stack development, backend architecture, and real-time applications.
-- 🎯 Open to MERN Stack Developer opportunities, including remote and on-site roles.
-
-I believe in learning by building, understanding the code I write, and improving one project at a time.
-
----
+- 🧩 Practicing Data Structures and Algorithms on LeetCode.
+- 🌱 Exploring better software architecture, backend development, and real-time applications.
+- 🤝 Open to suitable software development opportunities and collaboration.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite&theme=dark" alt="Frontend technologies"/>
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies"/>
-
-### Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Development tools"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vite,tailwind,nextjs&perline=6" alt="Tech stack icons" />
+</p>
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 1. DevSync — Collaborative Engineering Workspace
 
-### ⚡ DevSync
+A full-stack workspace designed to connect team discussions, decisions, tasks, and engineering context in one place.
 
-**Real-Time Collaborative Engineering Workspace**
+- **Frontend:** React, Vite
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Deployment:** Vercel and Render
 
-A workspace designed to connect team discussions, decisions, tasks, and code-related context in one place.
+<p>
+  <a href="https://dev-sync-jade.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="DevSync live demo" />
+  </a>
+  <a href="https://github.com/mansi0sinha/DevSync">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevSync source code" />
+  </a>
+</p>
 
-- 🗂️ Organize engineering tasks and workflows.
-- 💬 Bring discussions and decisions closer to execution.
-- 🔄 Explore real-time collaboration.
-- 🌐 Deployed full-stack application.
+### 2. Supportly — Creator Support Platform
 
-**Built with:** React, Node.js, Express, MongoDB
+A creator-support platform where creators can build profiles and receive support from their communities.
 
-<br/>
+- **Stack:** Next.js, MongoDB, NextAuth.js
+- **Focus:** Authentication, creator profiles, and full-stack application development.
 
-<a href="https://dev-sync-jade.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-Visit_DevSync-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit DevSync"/>
-</a>
+<p>
+  <a href="https://supportly-ruddy.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Supportly live demo" />
+  </a>
+  <a href="https://github.com/mansi0sinha/Supportly">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Supportly source code" />
+  </a>
+</p>
 
-<a href="https://github.com/mansi0sinha/DevSync">
-  <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevSync source code"/>
-</a>
+### 3. Habit Tracker
 
-</td>
-<td width="50%" valign="top">
+A web application for tracking habits and building consistent daily routines.
 
-### 🔗 Habit Tracker
-
-**Build Consistent Daily Habits**
-
-A full-stack application for organizing daily habits and tracking progress over time.
-
-- 📅 Track daily habits.
-- 📈 Monitor consistency and streaks.
-- 🎯 Build better routines through progress tracking.
-
-**Built with:** React, Node.js, Express, MongoDB
-
-<br/>
-
-<a href="https://habit-tracker-self-70fe.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-Visit_Habit_Tracker-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Habit Tracker live demo"/>
-</a>
-
-</td>
-  </tr>
-</table>
+<p>
+  <a href="https://habit-tracker-self-70fe.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Habit Tracker live demo" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=mansi0sinha&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mansi0sinha&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
+</p>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mansi0sinha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mansi0sinha&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-  <br/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi0sinha&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mansi0sinha&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ## 🧩 Problem Solving
 
-<div align="center">
-
+<p>
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-180%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode problems solved"/>
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+</p>
 
-  <p>Practicing data structures and algorithms to strengthen problem-solving skills.</p>
-
-</div>
-
----
+I practice DSA to improve problem-solving, algorithmic thinking, and coding fundamentals.
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
+<p>
   <a href="https://www.linkedin.com/in/mansi-sinha0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Mansi%20Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-
   <a href="https://github.com/mansi0sinha">
-    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
+</p>
 
-  <br/><br/>
+---
 
-  **Open to learning, collaboration, and developer opportunities.**
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:38BDF8&height=120&section=footer" width="100%" alt="Decorative footer"/>
-</div>
+<p align="center">
+  <i>Learning, building, debugging, and getting better every day. 🚀</i>
+</p>

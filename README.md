@@ -1,92 +1,169 @@
+# Hey, I'm Mansi Sinha 👋
+
 <div align="center">
 
-<!-- Animated typing header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mansi+Sinha+%F0%9F%91%8B;MERN+Stack+Developer;MCA+Student+(2024-2026);Building+DevSync+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Building+Full-Stack+Web+Applications;Learning+by+Building+Real+Projects;Currently+Building+DevSync+%F0%9F%9A%80" alt="Typing animation" />
 
-<!-- Profile visit badge -->
-![Profile views](https://komarev.com/ghpvc/?username=mansi0sinha&color=blueviolet&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-sinha0/)
-[![Portfolio](https://img.shields.io/badge/-Habit_Tracker-000000?style=flat-square&logo=vercel&logoColor=white)](https://habit-tracker-self-70fe.vercel.app/)
+  <br/>
+
+  <a href="https://dev-sync-jade.vercel.app/">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-DevSync-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="DevSync Live Demo"/>
+  </a>
+  <a href="https://github.com/mansi0sinha/DevSync">
+    <img src="https://img.shields.io/badge/GitHub-DevSync-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevSync GitHub Repository"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mansi-sinha0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=mansi0sinha&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square" alt="Profile views"/>
+
+  <p>
+    <b>MCA Student</b> · <b>MERN Stack Developer</b> · <b>Problem Solver</b>
+  </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
-- 🎓 Pursuing **MCA (2024–2026)**
-- 💼 6-month internship as **Assistant Software Developer Intern** @ Tprosys IT — built React features for the **UP Metro Digitalization Project**
-- 🧩 Solved **180+ LeetCode problems**
-- 🔭 Currently building **DevSync** — a real-time collaborative engineering workspace
-- 🌍 Open to **remote, WFH, or on-site** MERN Stack Developer (Fresher) roles
+## 👩‍💻 About Me
+
+I'm a developer who enjoys turning ideas into working web applications and learning how things work under the hood.
+
+- 🎓 Pursuing MCA (2024–2026)
+- 💼 Completed a 6-month internship as an Assistant Software Developer Intern at Tprosys IT, contributing React features to the UP Metro Digitalization Project.
+- 🧩 Solved 180+ LeetCode problems.
+- 🚀 Currently building **DevSync**, a collaborative engineering workspace.
+- 🌱 Exploring full-stack development, backend architecture, and real-time applications.
+- 🎯 Open to MERN Stack Developer opportunities, including remote and on-site roles.
+
+I believe in learning by building, understanding the code I write, and improving one project at a time.
 
 ---
 
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite&theme=dark" alt="Frontend technologies"/>
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies"/>
+
+### Tools & Deployment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Development tools"/>
+
+</div>
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
-**🔗 [Habit Tracker](https://habit-tracker-self-70fe.vercel.app/)**
-Full-stack MERN app to build and track daily habit streaks.
-`React` `Node.js` `Express` `MongoDB`
-[Live Demo →](https://habit-tracker-self-70fe.vercel.app/)
+### ⚡ DevSync
+
+**Real-Time Collaborative Engineering Workspace**
+
+A workspace designed to connect team discussions, decisions, tasks, and code-related context in one place.
+
+- 🗂️ Organize engineering tasks and workflows.
+- 💬 Bring discussions and decisions closer to execution.
+- 🔄 Explore real-time collaboration.
+- 🌐 Deployed full-stack application.
+
+**Built with:** React, Node.js, Express, MongoDB
+
+<br/>
+
+<a href="https://dev-sync-jade.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit_DevSync-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit DevSync"/>
+</a>
+
+<a href="https://github.com/mansi0sinha/DevSync">
+  <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevSync source code"/>
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**⚡ DevSync** *(coming soon)*
-Real-time collaborative engineering workspace.
-Repo card below auto-fills the moment it's created ⬇️
+### 🔗 Habit Tracker
+
+**Build Consistent Daily Habits**
+
+A full-stack application for organizing daily habits and tracking progress over time.
+
+- 📅 Track daily habits.
+- 📈 Monitor consistency and streaks.
+- 🎯 Build better routines through progress tracking.
+
+**Built with:** React, Node.js, Express, MongoDB
+
+<br/>
+
+<a href="https://habit-tracker-self-70fe.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit_Habit_Tracker-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Habit Tracker live demo"/>
+</a>
 
 </td>
-</tr>
+  </tr>
 </table>
 
-<!-- This card auto-populates once a repo named "devsync" exists under this username — no edits needed later -->
-[![DevSync](https://github-readme-stats.vercel.app/api/pin/?username=mansi0sinha&repo=devsync&theme=default&show_owner=true)](https://github.com/mansi0sinha/devsync)
-
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mansi0sinha&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansi0sinha&theme=default" width="49%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mansi0sinha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi0sinha&layout=compact&theme=default&hide_border=true&cache_seconds=1800" width="49%" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mansi0sinha&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-</div>
+  <br/>
 
-> 💡 The stats and streak cards above load live from GitHub each time this page opens — they show a brief loading shimmer/spinner before the numbers render, and the DevSync card will fill in automatically as soon as that repo exists.
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi0sinha&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
 
----
-
-### 📈 Contribution Graph
-<div align="center">
-<img src="https://ghchart.rshah.org/61DAFB/mansi0sinha" width="100%"/>
 </div>
 
 ---
 
-### 📫 Connect with Me
+## 🧩 Problem Solving
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-sinha0/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-180%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode problems solved"/>
+  </a>
+
+  <p>Practicing data structures and algorithms to strengthen problem-solving skills.</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,100:61DAFB&height=100&section=footer" width="100%"/>
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/mansi-sinha0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/mansi0sinha">
+    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  </a>
+
+  <br/><br/>
+
+  **Open to learning, collaboration, and developer opportunities.**
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:38BDF8&height=120&section=footer" width="100%" alt="Decorative footer"/>
+</div>
